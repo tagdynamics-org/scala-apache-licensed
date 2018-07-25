@@ -1,9 +1,5 @@
 package org.tagdynamics.sal
 
-import akka.NotUsed
-import akka.actor.ActorSystem
-import akka.stream.ActorMaterializer
-
 /**
  * The `balancer` method below is copied from the Akka documentation, licensed under the
  * Apache 2.0 license.
